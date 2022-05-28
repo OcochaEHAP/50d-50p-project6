@@ -1,5 +1,5 @@
 # 50 day - 50 project
 
-## project 5
+## project 6
 
 a cool scrolling animation
